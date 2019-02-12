@@ -1,4 +1,4 @@
---6. Все ид и имена клиентов и их контактные телефоны, которые покупали товар Chocolate frogs 250g
+--6. Р’СЃРµ РёРґ Рё РёРјРµРЅР° РєР»РёРµРЅС‚РѕРІ Рё РёС… РєРѕРЅС‚Р°РєС‚РЅС‹Рµ С‚РµР»РµС„РѕРЅС‹, РєРѕС‚РѕСЂС‹Рµ РїРѕРєСѓРїР°Р»Рё С‚РѕРІР°СЂ Chocolate frogs 250g
 
 SELECT distinct so.[OrderID], [CustomerName], [PhoneNumber] 
 FROM [WideWorldImporters].[Sales].[Orders] so 
